@@ -1,18 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8d29f22-c99f-4db4-8494-e6361e7e6843" name="Changes" comment="" />
+    <list default="true" id="f8d29f22-c99f-4db4-8494-e6361e7e6843" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/advanced_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/err1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/err1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/err10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/err10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/err2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/err2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/err3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/err3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/err4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/err4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/err5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/err5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/err6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/err6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/err7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/err7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/err8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/err8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manual.md" beforeDir="false" afterPath="$PROJECT_DIR$/manual.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2pWZpJ05LQ2SAgXLelDk0pKEGRU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,11 +56,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\trxumx\PycharmProjects\analysis" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,5 +84,28 @@
       <updated>1732883972247</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

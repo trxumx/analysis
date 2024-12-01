@@ -1,0 +1,6 @@
+program var
+integer x
+begin
+    if (x > 0)
+        x as x + 1;
+    end

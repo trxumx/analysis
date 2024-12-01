@@ -1,0 +1,6 @@
+var
+integer x, y
+begin
+    x as 10d;
+    y as 20d;
+end

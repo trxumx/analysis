@@ -1,0 +1,68 @@
+program var
+integer a, b, c, d, e, f, i, n, factorial
+real x, y, z, result
+boolean flag
+begin
+
+{ Assign integer values using various numeral systems }
+a as 10
+b as 1010b       { Binary number }
+c as 77O         { Octal number }
+d as 1A2Fh       { Hexadecimal number }
+e as 12d        { Decimal number with 'd' suffix }
+f as 456         { Standard decimal number }
+
+{ Assign real numbers, including exponential notation }
+x as 1.23
+y as .456
+z as 789.
+x as 1.23E+4
+y as 5.67E-8
+
+{ Assign boolean value }
+flag as true
+
+{ Perform arithmetic operations }
+result as ((a + b) * (c - d)) / (e + f)
+
+{ Perform logical operations using relational and unary operators }
+flag as not ((a = b) or (c <> d) and flag)
+
+{ Conditional operator with complex expressions }
+if ((a + b * c) > (x / y - z)) and (flag or not flag) then
+[
+    write(a, b, c, x, y, z)
+]
+else
+[
+    write(flag)
+]
+
+{ For loop to print numbers from 1 to 10 }
+for i as 1 to 10 do
+[
+    write(i)
+]
+
+{ While loop to increment and display value of i }
+i as 0
+while i < 5 do
+[
+    i as i + 1
+    write(i)
+]
+
+{ Calculate factorial of a number }
+read(n)
+factorial as 1
+for i as 1 to n do
+[
+    factorial as factorial * i
+]
+write(factorial)
+
+{ Input and output operations }
+read(a, b, c)
+write(a, b, c)
+
+end

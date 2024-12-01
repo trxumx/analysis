@@ -1,0 +1,5 @@
+program var
+integer x
+begin
+    x as 123x;
+end

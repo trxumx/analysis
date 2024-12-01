@@ -1,0 +1,22 @@
+program var
+integer x, y, i
+real z
+boolean flag
+begin
+    x as 10d;
+    y as 10h;
+    z as 3.14;
+    flag as true;
+    if x > y then
+        write(x);
+    else
+        write(y);
+    for i as 1d to 10d do
+        write(i);
+    while flag do
+    [
+        read(z);
+        if z = 0d then
+            flag as false;
+    ]
+end

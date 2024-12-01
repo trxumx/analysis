@@ -1,0 +1,5 @@
+program var
+integer x, x
+begin
+    x as 10d;
+end
