@@ -1,0 +1,7 @@
+program var
+integer x
+begin
+    for x as 1d to 10d
+        write(x);
+    next
+end
